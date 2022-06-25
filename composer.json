@@ -2,7 +2,7 @@
     "name": "siriussl/privatcoollib",
     "autoload": {
         "psr-4": {
-            "Siriussl\\Privatcoollib\\": "src/"
+            "SergeyLaytaruk\\PrivatCoolLib\\": "src/"
         }
     },
     "authors": [
