@@ -1,0 +1,15 @@
+{
+    "name": "siriussl/privatcoollib",
+    "autoload": {
+        "psr-4": {
+            "Siriussl\\Privatcoollib\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "sergey laytaruk",
+            "email": "sergey.laytaruk@gmail.com"
+        }
+    ],
+    "require": {}
+}
